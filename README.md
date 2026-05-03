@@ -1,28 +1,30 @@
-## 👋 Sobre mim
+![Banner](./github-banner.svg)
 
-I'm Pedro Saito, a big dreamer and passionate about technology. Currently, I play the role of Data Analyst, involved in all phases of the data lifecycle - from extraction and processing to analysis, loading and visualization.
+# Hi, I'm Pedro Saito 👋
 
+Data Engineer/Analytics Engineer focused on building scalable data pipelines and cloud-based analytics solutions.
 
-Sou Pedro Saito, um grande sonhador e apaixonado por tecnologia. Atualmente, desempenho a função de Analista de Dados, envolvido em todas as fases do ciclo de vida dos dados – desde a extração e processamento até a análise, carregamento e visualização.
+---
 
-## 💻 Minhas principais tecnologias e habilidades
+## 🛠️ Stack
 
-|Descrição|Tecnologias/Habilidades|
-|---------|-----------------------|
-|DataViz | Power BI (Mais de 2 anos de experiênca), Tableau e Google Looker |
-|Linguagem de programação | Python (numpy, pandas, matplotlib, seaborn, pyspark) |
-|Banco de dados | SQL (Mais de 2 anos de experiênca) |
-|Versionamento | Git, Github e Azure Repos |
-|Design | Figma | 
-|Metodologia ágeis | Scrum e Kanban |
-|Processamento de dados| ETL, ELT, Databricks, Data lake e Data warehouse |
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-### 🖥 Extra 
+---
 
-|Descrição|Tecnologias/Habilidades|
-|---------|-----------------------|
-|Front end| HTML, CSS, Javascript, PHP e Bootstrap |
-|Back end| Node.js e Express |
+## 📬 Contact
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pedrosaito1) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrosaito1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrosaito1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://pedrosaito1.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.pedrosaito@gmail.com)
